@@ -88,7 +88,7 @@ const products = [
     image: createArtwork({
       title: "Power Bank",
       subtitle: "Stay charged during work, travel, and outages",
-      icon: "🔋",
+      icon: "PB",
       accent: ["#7ad6c4", "#18a999"],
       background: ["#081a1b", "#124b57"],
       glow: "#18a999",
