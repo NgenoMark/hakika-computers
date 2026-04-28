@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="90" x2="1040" y2="790" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081A1B" />
+      <stop offset="1" stop-color="#124B57" />
+    </linearGradient>
+    <linearGradient id="accent" x1="204" y1="174" x2="818" y2="702" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AD6C4" />
+      <stop offset="1" stop-color="#18A999" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)" />
+  <circle cx="970" cy="180" r="150" fill="#18A999" fill-opacity=".18" />
+  <circle cx="208" cy="720" r="180" fill="#7AD6C4" fill-opacity=".14" />
+  <rect x="82" y="82" width="1036" height="736" rx="34" fill="white" fill-opacity=".05" stroke="white" stroke-opacity=".16" />
+  <rect x="120" y="124" width="216" height="56" rx="18" fill="white" fill-opacity=".1" />
+  <text x="152" y="162" fill="#F4F7FB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">IDEVELOPHUB</text>
+  <rect x="140" y="232" width="220" height="380" rx="42" fill="#DFF8F3" fill-opacity=".12" stroke="#DFF8F3" stroke-opacity=".65" stroke-width="10" />
+  <rect x="208" y="196" width="84" height="28" rx="12" fill="#DFF8F3" fill-opacity=".82" />
+  <rect x="170" y="278" width="160" height="240" rx="22" fill="url(#accent)" />
+  <rect x="214" y="530" width="72" height="22" rx="11" fill="#DFF8F3" fill-opacity=".72" />
+  <text x="120" y="430" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="800">Power Bank</text>
+  <text x="120" y="494" fill="rgba(255,255,255,.78)" font-family="Segoe UI, Arial, sans-serif" font-size="34">Stay charged during work, travel, and outages</text>
+  <rect x="120" y="598" width="350" height="98" rx="28" fill="url(#accent)" />
+  <text x="170" y="660" fill="#09111F" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Grab &amp; Go</text>
+  <rect x="836" y="562" width="202" height="206" rx="40" fill="white" fill-opacity=".07" stroke="white" stroke-opacity=".12" />
+  <path d="M911 617c-18 0-33 15-33 33v20c0 18 15 33 33 33h24c18 0 33-15 33-33v-20c0-18-15-33-33-33h-24Z" stroke="white" stroke-width="18" />
+  <rect x="968" y="643" width="24" height="34" rx="10" fill="#7AD6C4" />
+  <path d="M919 635l-22 38h26l-18 38 46-54h-27l18-22h-23Z" fill="#18A999" />
+</svg>

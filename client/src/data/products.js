@@ -1,3 +1,5 @@
+import powerBankCard from "../assets/power-bank-card.svg";
+
 const createArtwork = ({ title, accent, background, glow, icon, subtitle, ribbon }) => {
   const svg = `
     <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
@@ -85,15 +87,7 @@ const products = [
     delivery: "Same-day dispatch available",
     description: "A compact high-capacity power bank for phones, tablets, routers, and travel backup.",
     features: ["USB-C PD", "Dual output", "Travel friendly"],
-    image: createArtwork({
-      title: "Power Bank",
-      subtitle: "Stay charged during work, travel, and outages",
-      icon: "PB",
-      accent: ["#7ad6c4", "#18a999"],
-      background: ["#081a1b", "#124b57"],
-      glow: "#18a999",
-      ribbon: "Grab & Go",
-    }),
+    image: powerBankCard,
   },
   {
     id: 4,
